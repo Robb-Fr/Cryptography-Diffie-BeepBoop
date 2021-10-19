@@ -130,3 +130,11 @@ dmypy.json
 
 # MacOS files
 .DS_Store
+
+# PyCharm files
+/.idea/.gitignore
+/.idea/crypto_2021_diffie_beepboop.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
