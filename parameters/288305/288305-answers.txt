@@ -1,0 +1,11 @@
+Sciper = 288305
+Worked with (list all):
+Q1a_C=
+Q1b_M=
+Q1b_M=
+Q1c_M=
+Q1c_K=
+Q2_msg=
+Q2_max= 
+Q2_min=
+Q3_pt=
