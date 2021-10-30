@@ -4,7 +4,7 @@ Q1a_C='XUFRI0FRQWpVZFlTQWw5VS9BLVFmbEFsJUFXVWxBalk1QSU3JEEpJUEtOS9BNSVBXUFVcFkpb
 Q1b_M='QXMgdGltZSBwYXNzZXMsIHRoZSBkYXkgd2lsbCBjb21lIHdoZW4gZXZlcnl0aGluZyB3aWxsIGZhZGUgdG8gbWVtb3JpZXMuIEJ1dCwgdGhvc2UgbWlyYWN1bG91cyBkYXlzLCB3aGVuIHlvdSBhbmQgSSBhbG9uZyB3aXRoIGV2ZXJ5b25lIGVsc2UsIHNlYXJjaGVkIHRvZ2V0aGVyIGZvciBqdXN0IG9uZSB0aGluZy4uLiB3aWxsIGNvbnRpbnVlIHJldm9sdmluZyBmb3JldmVyLiBTb21ld2hlcmUgZGVlcCBpbiBteSBoZWFydCBhcyBteSBiaXR0ZXJzd2VldCBtZW1vcnkuIChZdXV0YSBUYWtlbW90bywgSG9uZXkgYW5kIENsb3Zlcik='
 Q1c_M='Youth is a hoax. It\'s evil. People who make a big deal of their "youth", are just inviting trouble. They try to keep everything going on around them. For them, if there\'s something that has to do with their "youth", they jump at it without a second thought. From normal daily life, to rebelling against the view of society. If you fall in with them - lies, secrets, failure, and even crimes await you. But for them, it\'s just a spice of life. And if failure is also a mark of "youth", then isn\'t it ironic, that a person who failed to make any friends, is also technically leading his "youth"? Though I wonder if they would agree. Everything runs on their schedule. Let me be clear. The people who enjoy their "youth", will eventually fall apart. (Hachiman Hikigaya, Yahari Ore No Seishun Love Come Wa Machigatteiru)'
 Q1c_K=(43, 36)
-Q2_msg=
-Q2_max= 
-Q2_min=
-Q3_pt=
+Q2_msg=NONE
+Q2_max=1933175
+Q2_min=17
+Q3_pt='boba fett kessel mustafar skywalker kit solo chewbacca. mara darth zabrak kenobi windu. lobot hutt mustafar zabrak antilles kamino darth. bespin anakin skywalker kashyyyk darth jade moff aayla. organa darth moff skywalker. utapau mandalore jinn darth skywalker jawa. yavin mara chewbacca darth. vader lars darth yavin. baba coruscant obiwan skywalker. coruscant boba solo hutt ackbar mandalorians grievous. solo jinn hoth owen skywalker skywalker darth organa. yavin wicket windu anakin zabrak ewok solo jar.'
