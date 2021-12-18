@@ -1,0 +1,64 @@
+### Labels description:
+###     grade: the final grade (rounded up to 0.25). 
+### 
+###     exact: the exact grade (5.0 * NUM_POINTS / MAX_POINTS + 1.0)
+###            displayed on 2 decimals.
+### 
+###     grant: partial or full marks (displayed on 3 decimals) granted by 
+###            the automatic grading tool or by the corrector.
+### 
+###            Corrector-granted points always override automatic ones.
+### 
+###     NUM_POINTS: the number of correct answers + the granted points
+###     MAX_POINTS: the maximum number of points (here, 8)    
+### 
+### Answers fixed automatically (swap):
+### 
+###     Correct answers that were swapped are given full marks, unless
+###     they need some fixing or patching (see below).
+### 
+### Answers fixed automatically (match):
+### 
+###     An answer "x" that does not match a solution "y" receives partial 
+###     mark if there exists `F = (F1, F2)` such that `F1(x) = F2(y)`.
+### 
+###     Sometimes, we allow the match up to some threshold D for the edit 
+###     distance d = levenshtein(F1(x), F2(y))) (i.e. number of characters
+###     to edit to go from one string to the other). The partial mark is  
+###     computed as max(0, 1 - d * t), where `t` depends on the strategy
+###     used for correcting the answer. 
+### 
+###     Autofixed errors are reported as "strategy-edit(d)" and the marks
+###     that were given are reported as well.
+### 
+###     Stragey: str
+###         Attempt to remove bytes prefixes from a string.
+### 
+###         Full marks are granted if the cleaned strings match.
+###         Otherwise, they are matched with D = 0 and t = 1/4. 
+### 
+###     Stragey: b64
+###         Attempt to encode or decode to base64.
+### 
+###         Full marks are granted if two encodings or decodings matched.
+###         Otherwise, they are matched with D = 0 and t = 1/8. 
+### 
+### Patched answers:
+### 
+###     Patched answers are incorrect answers that cannot be easily fixed.
+###     New solution candidates are internally generated and compared with
+###     the given answer. Full marks are usually not granted.
+### 
+###     Patched answers are reported as "patched answer [patch: PATCH]"
+###     or "patch answer [swapped: ..., patch: PATCH]" if a swap needed
+###     to be done beforehand.
+
+299879  Tom Louis, Demont                                   [grade: 6.00, exact: 6.00, grant: 0.000]
+  Q1a_C   correct answer
+  Q1b_M   correct answer
+  Q1c_K   correct answer
+  Q1c_M   correct answer
+  Q2_max  correct answer
+  Q2_min  correct answer
+  Q2_msg  correct answer
+  Q3_pt   correct answer
