@@ -1,0 +1,17 @@
+Sciper = 288305
+Worked with (list all):
+###### Exercise 1
+Q1_a1=
+Q1_b1=
+Q1_a2=
+Q1_b2=
+Q1_a3=
+Q1_b3=
+Q1_B=
+###### Exercise 2
+Q2a_ct=
+Q2b_pt2=
+Q2c_pt2=
+###### Exercise 3
+Q3a_d=
+Q3b_K1=
